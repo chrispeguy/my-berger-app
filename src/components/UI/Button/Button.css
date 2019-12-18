@@ -1,0 +1,21 @@
+.Button {
+background-color: none;
+color: white;
+outline: none;
+cursor: pointer;
+font: inherit;
+padding: 10px;
+margin: 10px;
+font-weight: bold;
+}
+.Button:first-of-type {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.Succes {
+    color: rgb(69, 223, 69);
+}
+.Cancel {
+    color: #d83b3b;
+}
